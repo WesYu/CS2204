@@ -1,0 +1,23 @@
+#header {
+    margin: auto;
+    width: 100px;
+    padding: 10px;
+}
+
+#logo {
+    width: 100%;
+    height: auto;
+}
+
+#shop_info {
+    float: left;
+}
+
+#reservation {
+    float: right;
+}
+
+video {
+    height: 300px;
+    width: auto;
+}
